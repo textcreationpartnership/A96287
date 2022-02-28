@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Danes plot discovered against this kingdome. With the meeting of Van Trump Dutch admirall at sea with them, upon the English coast neer Hull: wherein is related their battell, flight, and apprehension of two of their ships at Plympton Maries, in the county of Devond. Which was sent to the Lord Burrowes, and divers other the peers now assembled in Parliament, by Sir Henry Waddam of the said county, and by him ordered to be printed. As also an order sent out by the Honourable Court of Parliament, for consummating of the state affairs. John Brovvn, Cler. Parliament.</title>
+            <author>Waddam, Henry, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96287</idno>
+            <idno type="STC">Wing W157</idno>
+            <idno type="STC">Thomason E141_9</idno>
+            <idno type="STC">ESTC R8491</idno>
+            <idno type="EEBO-CITATION">99871319</idno>
+            <idno type="PROQUEST">99871319</idno>
+            <idno type="VID">156557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Danes plot discovered against this kingdome. With the meeting of Van Trump Dutch admirall at sea with them, upon the English coast neer Hull: wherein is related their battell, flight, and apprehension of two of their ships at Plympton Maries, in the county of Devond. Which was sent to the Lord Burrowes, and divers other the peers now assembled in Parliament, by Sir Henry Waddam of the said county, and by him ordered to be printed. As also an order sent out by the Honourable Court of Parliament, for consummating of the state affairs. John Brovvn, Cler. Parliament.</title>
+                  <author>Waddam, Henry, Sir.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe, and Marmaduke Boat,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Identified as Wing D170 on UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156557:1" rendition="simple:additions"/>
+            <p>THE DANES PLOT DISCOVERED AGAINST THIS <hi>KINGDOME.</hi>
+            </p>
+            <p>WITH, The meeting of <hi>Van Trump</hi> Dutch Admirall at Sea with them, upon the Engliſh Coaſt neer <hi>Hull:</hi> Wherein is related their Battell, flight, and appre<g ref="char:EOLhyphen"/>henſion of two of their ſhips at <hi>Plympton Maries,</hi> in the County of <hi>Devond.</hi>
+            </p>
+            <p>Which was ſent to the Lord <hi>Burrowes,</hi> and divers other the Peers now aſſembled in <hi>Parliament,</hi> by Sir <hi>Henry Waddam</hi> of the ſaid County, and by him Or<g ref="char:EOLhyphen"/>dered to be Printed.</p>
+            <p>As alſo an Order ſent out by the Honourable Court of <hi>Parliament,</hi> for conſummating of the State Affairs.</p>
+            <p>
+               <hi>JOHN BROVVN,</hi> Cler. Parliament<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Cor,</hi> and <hi>Marmaduke Boat,</hi> 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156557:2"/>
+            <pb facs="tcp:156557:2"/>
+            <head>THE DANES PLOT DISCOVERED, <hi>Againſt this Kingdome.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONOVRABLE, AND my thrice noble Lord<g ref="char:punc">▪</g>
+               </salute>
+            </opener>
+            <p>I am ſorry to receive ſuch intelligence as is daily preſented to my hands, concerning the preſent diſturbances of the times: no peculiar or perticular part therin, but requires him that bears the badg of loyalty incloſed in his breſt, not only to commiſerate, but alſo to uſe all diligence that may be comprehended in the circuit of his mean abilities to remove the ſame; ſparing neither in in<g ref="char:EOLhyphen"/>deavors to confiſcate thoſe errors, alrea<g ref="char:EOLhyphen"/>dy grounded in the hearts of malignants, nor means to nouriſh proficients in their
+<pb facs="tcp:156557:3"/>good intentions, the State of this King<g ref="char:EOLhyphen"/>dome now requires valour to defend it ſelf, Counſell to maintain thoſe Heroick parts, and a head to incourage and reward good deſerts.</p>
+            <p n="1">1. We were never more able, nor as I conceive never more willing (being magnanimous, and valorous perſons) this Kingdome may reply without boaſting, that they need not fear any private or forrai<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies, if but once united in a correſpondency of agreement; and this correſpondency being in larged but with an unanimous coherence of the proteſtant party, muſt by the aſſiſtance of the Al<g ref="char:EOLhyphen"/>mighty, the Father and Author of truth, prove invincible and victorious? What age, or what times formerly and already paſt in Times <hi>Diurnall,</hi> could ever chal<g ref="char:EOLhyphen"/>lenge to themſelves more abilities? What perſons can, though guided with the ma<g ref="char:EOLhyphen"/>licious ſpleen of Herefie, attract or draw leſſe hopes of a victory over us then now. Were there but a removall of thoſe diſagreements, which cauſe a generall
+<pb facs="tcp:156557:3"/>ſadneſſe in his Majeſties Subjects.</p>
+            <p n="2">2 When was a Land better counſel<g ref="char:EOLhyphen"/>led, if accepted: can there be better ad<g ref="char:EOLhyphen"/>viſe given, then what proceeds from a Parliament of both Lords and Com<g ref="char:EOLhyphen"/>mons, every motion therin, and by them moved, concerning the principall affairs of this State; and againſt whom no tain<g ref="char:EOLhyphen"/>ture of diſloyalty could be aſſert, with<g ref="char:EOLhyphen"/>out juſt grounds, as proceedings from the <hi>Ventrim</hi> and bowels of <hi>Europe:</hi> long do I (with a zealous affection to that Aſſembly) wiſh continuance of theſe bleſſings aforeſaid towards us, and an ad<g ref="char:EOLhyphen"/>dition of the latter.</p>
+            <p n="3">3 Being the return of that head to joynwith you, for whom we all mourn: This Land had never ſo much need of care to be taken in the ſetling of the <hi>Militia,</hi> and putting the Kingdome in a Poſture of defence, as now; as does quo<g ref="char:EOLhyphen"/>tidialiy appear by the infinite common<g ref="char:EOLhyphen"/>tions at home, and ſundry inſurrections and peenicious attempts of our enemies abroad.</p>
+            <pb facs="tcp:156557:4"/>
+            <p> 
+               <hi>My Lord,</hi>
+               <lb/> IF it may not ſeem any way offenſive to your honour, I ſhall preſent one to you; which whether you have heard of formerly, or no, I cannot tell, concerning the Danes; who preſumed ſo far upon his Majeſties Coaſts as to come within ten leagues of his Majeſties Port of <hi>Hull,</hi> affrighting the people there by their dai<g ref="char:EOLhyphen"/>ly report, proceeding from their own mouths; that they were bound for <hi>Eng<g ref="char:EOLhyphen"/>and,</hi> to receive ſatisfaction for ſome wrongs done them. Wherupon the Ru<g ref="char:EOLhyphen"/>mor ſpreading aboad, through theſe their threats, intelligence was given to ſome of his Majeſties ſhips then at Sea, being <hi>The James,</hi> and the <hi>Rainbow,</hi> there being with them ſix Merchants ſhips; who reſolved to go and meet them, ther<g ref="char:EOLhyphen"/>by to enquire the truth of this report: But ere they came neer, they perceived a ſmall Company of Dutch ſhips, men of war, ready provided for an encounter with the Danes; which gave them occaſion of beholding the proſpect, they
+<pb facs="tcp:156557:4"/>begun the encounter about twelve of the clock on monday laſt, being the 21. of <hi>March,</hi> continuing fight for the ſpace of two hours very hotly, <hi>Van Trumpt</hi> the Dutch Admirall being then preſent, be<g ref="char:EOLhyphen"/>haved himſelf very valiantly: inſomuch that they ſunk many of the Danes ſhips, ere it was two of the clock; when ha<g ref="char:EOLhyphen"/>ving ſpent much powder and ſhot of either Party, they reſolved upon parly, which continued for an hour; wherein <hi>Van Trump</hi> deſired the peruſall of their Commiſſion, and to know whether they were bound, the ground of their intents; which being denied, they fell to it again, and continued till it was dark: when taking the opportunity of the night, be<g ref="char:EOLhyphen"/>ing very Cloudy, they fled; but the wind being contrary, ſome were driven upon the Weſtern Coaſts of <hi>Dorſet</hi> and <hi>De<g ref="char:EOLhyphen"/>vonſhire;</hi> Wheras two of them are ap<g ref="char:EOLhyphen"/>prehended at <hi>Plympton Maries in Devon<g ref="char:EOLhyphen"/>ſhire,</hi> untill the Owners ſhall be exami<g ref="char:EOLhyphen"/>ned. When I ſhall give your honour real intelligence concerning their profeſſion,
+<pb facs="tcp:156557:5"/>if ſo be they are not ſent up to <hi>London</hi> to thoſe other Rebels; And in the mean time, I ſhall reſt,</p>
+            <closer>
+               <signed>Your Honours obliged Servant, <hi>HENRY WADDAM.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_decree">
+            <opener>
+               <dateline>
+                  <date>Viceſſimo tertio Die Martii. 1641.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Honourable, and high Court of Parliament, that there be a ſpeedie courſe taken for gi<g ref="char:EOLhyphen"/>ving up the account of the ſeverall Counties in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> that have taken the Proteſtation of for<g ref="char:EOLhyphen"/>merly ſet down, and giving in the Names of ſuch as ſhall refuſe it, that that buſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſe may be perfected; as alſo the account of Pol-money be likewiſe delivered up with all ex<g ref="char:EOLhyphen"/>pedition, that by it and the laſt four Subſidies, the Officers and Souldiers entertained for the Iriſh affairs, may bee ſent ever.</p>
+            <closer>
+               <signed>John Brown, Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
